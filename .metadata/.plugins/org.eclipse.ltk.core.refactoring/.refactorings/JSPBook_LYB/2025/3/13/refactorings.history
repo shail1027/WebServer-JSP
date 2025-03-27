@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;JSPBook_LYB/src/main/webapp/cp02&apos; to &apos;ch02&apos;" description="Rename resource &apos;cp02&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/cp02" name="ch02" stamp="1743034556967" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;JSPBook_LYB&apos;&#x0A;- Original project: &apos;JSPBook_LYB&apos;&#x0A;- Original element: &apos;ch04&apos;" description="Delete element" element1="src/main/webapp/ch04" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1743034571496" subPackages="false" version="1.0"/>
+</session>

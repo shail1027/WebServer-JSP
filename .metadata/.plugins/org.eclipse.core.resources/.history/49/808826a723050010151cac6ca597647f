@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JSPBook_LYB">
+        <property name="context-root" value="JSPBook_LYB"/>
+        <property name="java-output-path" value="/JSPBook_LYB/build/classes"/>
+    </wb-module>
+</project-modules>
