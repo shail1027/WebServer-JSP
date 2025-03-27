@@ -19,8 +19,8 @@ INDEX VERSION 1.134+/Users/shail1027/Desktop/3학년_1학기/WebServer/실습/.m
 2657394288.index
 2957792417.index
 3976207961.index
-2190501880.index
 2294123491.index
+2190501880.index
 3410311503.index
 4020992418.index
 942759666.index

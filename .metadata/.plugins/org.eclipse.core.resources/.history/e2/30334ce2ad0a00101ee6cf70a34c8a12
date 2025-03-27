@@ -1,0 +1,9 @@
+package ch04.com.dao;
+
+public class Person {
+
+	public Person() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
